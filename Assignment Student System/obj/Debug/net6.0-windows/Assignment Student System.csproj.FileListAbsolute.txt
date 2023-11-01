@@ -1,0 +1,345 @@
+C:\Users\60125\Documents\IOOP\Assignment Student System\Assignment Student System\bin\Debug\net6.0-windows\Assignment Student System.exe
+C:\Users\60125\Documents\IOOP\Assignment Student System\Assignment Student System\bin\Debug\net6.0-windows\Assignment Student System.dll.config
+C:\Users\60125\Documents\IOOP\Assignment Student System\Assignment Student System\bin\Debug\net6.0-windows\Assignment Student System.deps.json
+C:\Users\60125\Documents\IOOP\Assignment Student System\Assignment Student System\bin\Debug\net6.0-windows\Assignment Student System.runtimeconfig.json
+C:\Users\60125\Documents\IOOP\Assignment Student System\Assignment Student System\bin\Debug\net6.0-windows\Assignment Student System.dll
+C:\Users\60125\Documents\IOOP\Assignment Student System\Assignment Student System\bin\Debug\net6.0-windows\Assignment Student System.pdb
+C:\Users\60125\Documents\IOOP\Assignment Student System\Assignment Student System\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\60125\Documents\IOOP\Assignment Student System\Assignment Student System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\60125\Documents\IOOP\Assignment Student System\Assignment Student System\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\60125\Documents\IOOP\Assignment Student System\Assignment Student System\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\60125\Documents\IOOP\Assignment Student System\Assignment Student System\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\60125\Documents\IOOP\Assignment Student System\Assignment Student System\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\60125\Documents\IOOP\Assignment Student System\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.csproj.AssemblyReference.cache
+C:\Users\60125\Documents\IOOP\Assignment Student System\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.LoginPage.resources
+C:\Users\60125\Documents\IOOP\Assignment Student System\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.StudentHome.resources
+C:\Users\60125\Documents\IOOP\Assignment Student System\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.csproj.GenerateResource.cache
+C:\Users\60125\Documents\IOOP\Assignment Student System\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\60125\Documents\IOOP\Assignment Student System\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.AssemblyInfoInputs.cache
+C:\Users\60125\Documents\IOOP\Assignment Student System\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.AssemblyInfo.cs
+C:\Users\60125\Documents\IOOP\Assignment Student System\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.csproj.CoreCompileInputs.cache
+C:\Users\60125\Documents\IOOP\Assignment Student System\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.csproj.CopyComplete
+C:\Users\60125\Documents\IOOP\Assignment Student System\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.dll
+C:\Users\60125\Documents\IOOP\Assignment Student System\Assignment Student System\obj\Debug\net6.0-windows\refint\Assignment Student System.dll
+C:\Users\60125\Documents\IOOP\Assignment Student System\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.pdb
+C:\Users\60125\Documents\IOOP\Assignment Student System\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.genruntimeconfig.cache
+C:\Users\60125\Documents\IOOP\Assignment Student System\Assignment Student System\obj\Debug\net6.0-windows\ref\Assignment Student System.dll
+C:\Users\60125\Documents\IOOP\Assignment Student System\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.StuClassSchedule.resources
+C:\Users\60125\Documents\IOOP\Assignment Student System\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.StuProfile.resources
+C:\Users\60125\Documents\IOOP\Assignment Student System\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.StuHelpDesk.resources
+C:\Users\60125\Documents\IOOP\Assignment Student System\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.StuUpdateProfile.resources
+C:\Users\60125\Documents\IOOP\Assignment Student System\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Admin.resources
+C:\Users\60125\Documents\IOOP\Assignment Student System\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Admin_Receptionist.resources
+C:\Users\60125\Documents\IOOP\Assignment Student System\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Admin_Register.resources
+C:\Users\60125\Documents\IOOP\Assignment Student System\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Admin_Tutor.resources
+C:\Users\60125\Documents\IOOP\Assignment Student System\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Admin_Tutor_AddSubject.resources
+C:\Users\60125\Documents\IOOP\Assignment Student System\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Admin_Tutor_Subject.resources
+C:\Users\60125\Documents\IOOP\Assignment Student System\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Change_Password.resources
+C:\Users\60125\Documents\IOOP\Assignment Student System\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Update_Personal_Detail.resources
+C:\Users\60125\Documents\IOOP\Assignment Student System\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Employee_Monthly_Income_Report.resources
+C:\Users\60125\Documents\IOOP\Assignment Student System\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Employee_View_Monthly_Income_Report.resources
+C:\Users\60125\Documents\IOOP\Assignment Student System\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.LevelSubject_Monthly_income.resources
+C:\Users\60125\Documents\IOOP\Assignment Student System\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Monthly_income.resources
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.csproj.AssemblyReference.cache
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Admin.resources
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Admin_Receptionist.resources
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Admin_Register.resources
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Admin_Tutor.resources
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Admin_Tutor_AddSubject.resources
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Admin_Tutor_Subject.resources
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Change_Password.resources
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.frmDltStudentPage.resources
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Employee_Monthly_Income_Report.resources
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Employee_View_Monthly_Income_Report.resources
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.LevelSubject_Monthly_income.resources
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.LoginPage.resources
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Monthly_income.resources
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.frmReceptionPage.resources
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.frmReceptionistProfile.resources
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.frmRegistrationPage.resources
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.StuClassSchedule.resources
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.StudentHome.resources
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.StuHelpDesk.resources
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.StuProfile.resources
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.StuUpdateProfile.resources
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.frmUpdateSub.resources
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Update_Personal_Detail.resources
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.csproj.GenerateResource.cache
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.AssemblyInfoInputs.cache
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.AssemblyInfo.cs
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.csproj.CoreCompileInputs.cache
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.dll
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\refint\Assignment Student System.dll
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.pdb
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.frmPayment.resources
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled\Assignment Student System\bin\Debug\net6.0-windows\Assignment Student System.exe
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled\Assignment Student System\bin\Debug\net6.0-windows\Assignment Student System.dll.config
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled\Assignment Student System\bin\Debug\net6.0-windows\Assignment Student System.deps.json
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled\Assignment Student System\bin\Debug\net6.0-windows\Assignment Student System.runtimeconfig.json
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled\Assignment Student System\bin\Debug\net6.0-windows\Assignment Student System.dll
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled\Assignment Student System\bin\Debug\net6.0-windows\Assignment Student System.pdb
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled\Assignment Student System\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled\Assignment Student System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled\Assignment Student System\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled\Assignment Student System\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled\Assignment Student System\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled\Assignment Student System\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.csproj.CopyComplete
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.genruntimeconfig.cache
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\ref\Assignment Student System.dll
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled - Latest Working Copy (2)\Assignment Student System\bin\Debug\net6.0-windows\Assignment Student System.exe
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled - Latest Working Copy (2)\Assignment Student System\bin\Debug\net6.0-windows\Assignment Student System.dll.config
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled - Latest Working Copy (2)\Assignment Student System\bin\Debug\net6.0-windows\Assignment Student System.deps.json
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled - Latest Working Copy (2)\Assignment Student System\bin\Debug\net6.0-windows\Assignment Student System.runtimeconfig.json
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled - Latest Working Copy (2)\Assignment Student System\bin\Debug\net6.0-windows\Assignment Student System.dll
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled - Latest Working Copy (2)\Assignment Student System\bin\Debug\net6.0-windows\Assignment Student System.pdb
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled - Latest Working Copy (2)\Assignment Student System\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled - Latest Working Copy (2)\Assignment Student System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled - Latest Working Copy (2)\Assignment Student System\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled - Latest Working Copy (2)\Assignment Student System\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled - Latest Working Copy (2)\Assignment Student System\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled - Latest Working Copy (2)\Assignment Student System\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled - Latest Working Copy (2)\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.csproj.AssemblyReference.cache
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled - Latest Working Copy (2)\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Admin.resources
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled - Latest Working Copy (2)\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Admin_Receptionist.resources
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled - Latest Working Copy (2)\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Admin_Register.resources
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled - Latest Working Copy (2)\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Admin_Tutor.resources
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled - Latest Working Copy (2)\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Admin_Tutor_AddSubject.resources
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled - Latest Working Copy (2)\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Admin_Tutor_Subject.resources
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled - Latest Working Copy (2)\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Change_Password.resources
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled - Latest Working Copy (2)\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.frmDltStudentPage.resources
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled - Latest Working Copy (2)\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Employee_Monthly_Income_Report.resources
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled - Latest Working Copy (2)\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Employee_View_Monthly_Income_Report.resources
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled - Latest Working Copy (2)\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Form2.resources
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled - Latest Working Copy (2)\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Form3.resources
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled - Latest Working Copy (2)\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.LevelSubject_Monthly_income.resources
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled - Latest Working Copy (2)\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.LoginPage.resources
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled - Latest Working Copy (2)\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Monthly_income.resources
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled - Latest Working Copy (2)\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.frmReceptionPage.resources
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled - Latest Working Copy (2)\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.frmReceptionistProfile.resources
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled - Latest Working Copy (2)\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.frmRegistrationPage.resources
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled - Latest Working Copy (2)\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.StuClassSchedule.resources
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled - Latest Working Copy (2)\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.frmPayment.resources
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled - Latest Working Copy (2)\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.StudentHome.resources
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled - Latest Working Copy (2)\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.StuHelpDesk.resources
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled - Latest Working Copy (2)\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.StuProfile.resources
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled - Latest Working Copy (2)\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.StuUpdateProfile.resources
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled - Latest Working Copy (2)\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.frmUpdateSub.resources
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled - Latest Working Copy (2)\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.UpdateClass.resources
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled - Latest Working Copy (2)\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Update_Personal_Detail.resources
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled - Latest Working Copy (2)\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.csproj.GenerateResource.cache
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled - Latest Working Copy (2)\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled - Latest Working Copy (2)\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.AssemblyInfoInputs.cache
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled - Latest Working Copy (2)\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.AssemblyInfo.cs
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled - Latest Working Copy (2)\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.csproj.CoreCompileInputs.cache
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled - Latest Working Copy (2)\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.csproj.CopyComplete
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled - Latest Working Copy (2)\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.dll
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled - Latest Working Copy (2)\Assignment Student System\obj\Debug\net6.0-windows\refint\Assignment Student System.dll
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled - Latest Working Copy (2)\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.pdb
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled - Latest Working Copy (2)\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.genruntimeconfig.cache
+C:\Users\AVITA\OneDrive\Documents\APU Degree L1\L1 Semester 2\IOOP\Assignment Student System - Compiled - Latest Working Copy (2)\Assignment Student System\obj\Debug\net6.0-windows\ref\Assignment Student System.dll
+C:\Users\AVITA\OneDrive\Documents\Assignment Student System - Compiled\Assignment Student System\bin\Debug\net6.0-windows\Assignment Student System.exe
+C:\Users\AVITA\OneDrive\Documents\Assignment Student System - Compiled\Assignment Student System\bin\Debug\net6.0-windows\Assignment Student System.dll.config
+C:\Users\AVITA\OneDrive\Documents\Assignment Student System - Compiled\Assignment Student System\bin\Debug\net6.0-windows\Assignment Student System.deps.json
+C:\Users\AVITA\OneDrive\Documents\Assignment Student System - Compiled\Assignment Student System\bin\Debug\net6.0-windows\Assignment Student System.runtimeconfig.json
+C:\Users\AVITA\OneDrive\Documents\Assignment Student System - Compiled\Assignment Student System\bin\Debug\net6.0-windows\Assignment Student System.dll
+C:\Users\AVITA\OneDrive\Documents\Assignment Student System - Compiled\Assignment Student System\bin\Debug\net6.0-windows\Assignment Student System.pdb
+C:\Users\AVITA\OneDrive\Documents\Assignment Student System - Compiled\Assignment Student System\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\AVITA\OneDrive\Documents\Assignment Student System - Compiled\Assignment Student System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\AVITA\OneDrive\Documents\Assignment Student System - Compiled\Assignment Student System\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\AVITA\OneDrive\Documents\Assignment Student System - Compiled\Assignment Student System\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\AVITA\OneDrive\Documents\Assignment Student System - Compiled\Assignment Student System\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\AVITA\OneDrive\Documents\Assignment Student System - Compiled\Assignment Student System\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\AVITA\OneDrive\Documents\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.csproj.AssemblyReference.cache
+C:\Users\AVITA\OneDrive\Documents\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Admin.resources
+C:\Users\AVITA\OneDrive\Documents\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Admin_Receptionist.resources
+C:\Users\AVITA\OneDrive\Documents\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Admin_Register.resources
+C:\Users\AVITA\OneDrive\Documents\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Admin_Tutor.resources
+C:\Users\AVITA\OneDrive\Documents\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Admin_Tutor_AddSubject.resources
+C:\Users\AVITA\OneDrive\Documents\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Admin_Tutor_Subject.resources
+C:\Users\AVITA\OneDrive\Documents\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Change_Password.resources
+C:\Users\AVITA\OneDrive\Documents\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.frmDltStudentPage.resources
+C:\Users\AVITA\OneDrive\Documents\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Employee_Monthly_Income_Report.resources
+C:\Users\AVITA\OneDrive\Documents\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Employee_View_Monthly_Income_Report.resources
+C:\Users\AVITA\OneDrive\Documents\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Form2.resources
+C:\Users\AVITA\OneDrive\Documents\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Form3.resources
+C:\Users\AVITA\OneDrive\Documents\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.LevelSubject_Monthly_income.resources
+C:\Users\AVITA\OneDrive\Documents\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.LoginPage.resources
+C:\Users\AVITA\OneDrive\Documents\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Monthly_income.resources
+C:\Users\AVITA\OneDrive\Documents\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.frmReceptionPage.resources
+C:\Users\AVITA\OneDrive\Documents\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.frmReceptionistProfile.resources
+C:\Users\AVITA\OneDrive\Documents\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.frmRegistrationPage.resources
+C:\Users\AVITA\OneDrive\Documents\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.StuClassSchedule.resources
+C:\Users\AVITA\OneDrive\Documents\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.frmPayment.resources
+C:\Users\AVITA\OneDrive\Documents\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.StudentHome.resources
+C:\Users\AVITA\OneDrive\Documents\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.StuHelpDesk.resources
+C:\Users\AVITA\OneDrive\Documents\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.StuProfile.resources
+C:\Users\AVITA\OneDrive\Documents\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.StuUpdateProfile.resources
+C:\Users\AVITA\OneDrive\Documents\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.frmUpdateSub.resources
+C:\Users\AVITA\OneDrive\Documents\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.UpdateClass.resources
+C:\Users\AVITA\OneDrive\Documents\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Update_Personal_Detail.resources
+C:\Users\AVITA\OneDrive\Documents\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.csproj.GenerateResource.cache
+C:\Users\AVITA\OneDrive\Documents\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AVITA\OneDrive\Documents\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.AssemblyInfoInputs.cache
+C:\Users\AVITA\OneDrive\Documents\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.AssemblyInfo.cs
+C:\Users\AVITA\OneDrive\Documents\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.csproj.CoreCompileInputs.cache
+C:\Users\AVITA\OneDrive\Documents\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.csproj.CopyComplete
+C:\Users\AVITA\OneDrive\Documents\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.dll
+C:\Users\AVITA\OneDrive\Documents\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\refint\Assignment Student System.dll
+C:\Users\AVITA\OneDrive\Documents\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.pdb
+C:\Users\AVITA\OneDrive\Documents\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.genruntimeconfig.cache
+C:\Users\AVITA\OneDrive\Documents\Assignment Student System - Compiled\Assignment Student System\obj\Debug\net6.0-windows\ref\Assignment Student System.dll
+C:\Users\60125\Desktop\Assignment Student System - Fully Compiled\Assignment Student System\bin\Debug\net6.0-windows\Assignment Student System.exe
+C:\Users\60125\Desktop\Assignment Student System - Fully Compiled\Assignment Student System\bin\Debug\net6.0-windows\Assignment Student System.dll.config
+C:\Users\60125\Desktop\Assignment Student System - Fully Compiled\Assignment Student System\bin\Debug\net6.0-windows\Assignment Student System.deps.json
+C:\Users\60125\Desktop\Assignment Student System - Fully Compiled\Assignment Student System\bin\Debug\net6.0-windows\Assignment Student System.runtimeconfig.json
+C:\Users\60125\Desktop\Assignment Student System - Fully Compiled\Assignment Student System\bin\Debug\net6.0-windows\Assignment Student System.dll
+C:\Users\60125\Desktop\Assignment Student System - Fully Compiled\Assignment Student System\bin\Debug\net6.0-windows\Assignment Student System.pdb
+C:\Users\60125\Desktop\Assignment Student System - Fully Compiled\Assignment Student System\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\60125\Desktop\Assignment Student System - Fully Compiled\Assignment Student System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\60125\Desktop\Assignment Student System - Fully Compiled\Assignment Student System\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\60125\Desktop\Assignment Student System - Fully Compiled\Assignment Student System\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\60125\Desktop\Assignment Student System - Fully Compiled\Assignment Student System\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\60125\Desktop\Assignment Student System - Fully Compiled\Assignment Student System\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\60125\Desktop\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.csproj.AssemblyReference.cache
+C:\Users\60125\Desktop\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Admin.resources
+C:\Users\60125\Desktop\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Admin_Receptionist.resources
+C:\Users\60125\Desktop\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Admin_Register.resources
+C:\Users\60125\Desktop\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Admin_Tutor.resources
+C:\Users\60125\Desktop\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Admin_Tutor_AddSubject.resources
+C:\Users\60125\Desktop\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Admin_Tutor_Subject.resources
+C:\Users\60125\Desktop\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Change_Password.resources
+C:\Users\60125\Desktop\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.frmDltStudentPage.resources
+C:\Users\60125\Desktop\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Employee_Monthly_Income_Report.resources
+C:\Users\60125\Desktop\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Employee_View_Monthly_Income_Report.resources
+C:\Users\60125\Desktop\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Form2.resources
+C:\Users\60125\Desktop\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Form3.resources
+C:\Users\60125\Desktop\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.LevelSubject_Monthly_income.resources
+C:\Users\60125\Desktop\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.LoginPage.resources
+C:\Users\60125\Desktop\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Monthly_income.resources
+C:\Users\60125\Desktop\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.frmReceptionPage.resources
+C:\Users\60125\Desktop\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.frmReceptionistProfile.resources
+C:\Users\60125\Desktop\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.frmRegistrationPage.resources
+C:\Users\60125\Desktop\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.StuClassSchedule.resources
+C:\Users\60125\Desktop\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.frmPayment.resources
+C:\Users\60125\Desktop\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.StudentHome.resources
+C:\Users\60125\Desktop\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.StuHelpDesk.resources
+C:\Users\60125\Desktop\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.StuProfile.resources
+C:\Users\60125\Desktop\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.StuUpdateProfile.resources
+C:\Users\60125\Desktop\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.frmUpdateSub.resources
+C:\Users\60125\Desktop\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.UpdateClass.resources
+C:\Users\60125\Desktop\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Update_Personal_Detail.resources
+C:\Users\60125\Desktop\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.csproj.GenerateResource.cache
+C:\Users\60125\Desktop\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\60125\Desktop\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.AssemblyInfoInputs.cache
+C:\Users\60125\Desktop\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.AssemblyInfo.cs
+C:\Users\60125\Desktop\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.csproj.CoreCompileInputs.cache
+C:\Users\60125\Desktop\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.csproj.CopyComplete
+C:\Users\60125\Desktop\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.dll
+C:\Users\60125\Desktop\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\refint\Assignment Student System.dll
+C:\Users\60125\Desktop\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.pdb
+C:\Users\60125\Desktop\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.genruntimeconfig.cache
+C:\Users\60125\Desktop\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\ref\Assignment Student System.dll
+C:\Users\AVITA\Downloads\Assignment Student System - Fully Compiled\Assignment Student System - Fully Compiled\Assignment Student System\bin\Debug\net6.0-windows\Assignment Student System.exe
+C:\Users\AVITA\Downloads\Assignment Student System - Fully Compiled\Assignment Student System - Fully Compiled\Assignment Student System\bin\Debug\net6.0-windows\Assignment Student System.dll.config
+C:\Users\AVITA\Downloads\Assignment Student System - Fully Compiled\Assignment Student System - Fully Compiled\Assignment Student System\bin\Debug\net6.0-windows\Assignment Student System.deps.json
+C:\Users\AVITA\Downloads\Assignment Student System - Fully Compiled\Assignment Student System - Fully Compiled\Assignment Student System\bin\Debug\net6.0-windows\Assignment Student System.runtimeconfig.json
+C:\Users\AVITA\Downloads\Assignment Student System - Fully Compiled\Assignment Student System - Fully Compiled\Assignment Student System\bin\Debug\net6.0-windows\Assignment Student System.dll
+C:\Users\AVITA\Downloads\Assignment Student System - Fully Compiled\Assignment Student System - Fully Compiled\Assignment Student System\bin\Debug\net6.0-windows\Assignment Student System.pdb
+C:\Users\AVITA\Downloads\Assignment Student System - Fully Compiled\Assignment Student System - Fully Compiled\Assignment Student System\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\AVITA\Downloads\Assignment Student System - Fully Compiled\Assignment Student System - Fully Compiled\Assignment Student System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\AVITA\Downloads\Assignment Student System - Fully Compiled\Assignment Student System - Fully Compiled\Assignment Student System\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\AVITA\Downloads\Assignment Student System - Fully Compiled\Assignment Student System - Fully Compiled\Assignment Student System\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\AVITA\Downloads\Assignment Student System - Fully Compiled\Assignment Student System - Fully Compiled\Assignment Student System\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\AVITA\Downloads\Assignment Student System - Fully Compiled\Assignment Student System - Fully Compiled\Assignment Student System\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\AVITA\Downloads\Assignment Student System - Fully Compiled\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.csproj.AssemblyReference.cache
+C:\Users\AVITA\Downloads\Assignment Student System - Fully Compiled\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Admin.resources
+C:\Users\AVITA\Downloads\Assignment Student System - Fully Compiled\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Admin_Receptionist.resources
+C:\Users\AVITA\Downloads\Assignment Student System - Fully Compiled\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Admin_Register.resources
+C:\Users\AVITA\Downloads\Assignment Student System - Fully Compiled\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Admin_Tutor.resources
+C:\Users\AVITA\Downloads\Assignment Student System - Fully Compiled\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Admin_Tutor_AddSubject.resources
+C:\Users\AVITA\Downloads\Assignment Student System - Fully Compiled\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Admin_Tutor_Subject.resources
+C:\Users\AVITA\Downloads\Assignment Student System - Fully Compiled\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Change_Password.resources
+C:\Users\AVITA\Downloads\Assignment Student System - Fully Compiled\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.frmDltStudentPage.resources
+C:\Users\AVITA\Downloads\Assignment Student System - Fully Compiled\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Employee_Monthly_Income_Report.resources
+C:\Users\AVITA\Downloads\Assignment Student System - Fully Compiled\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Employee_View_Monthly_Income_Report.resources
+C:\Users\AVITA\Downloads\Assignment Student System - Fully Compiled\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Form2.resources
+C:\Users\AVITA\Downloads\Assignment Student System - Fully Compiled\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Form3.resources
+C:\Users\AVITA\Downloads\Assignment Student System - Fully Compiled\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.LevelSubject_Monthly_income.resources
+C:\Users\AVITA\Downloads\Assignment Student System - Fully Compiled\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.LoginPage.resources
+C:\Users\AVITA\Downloads\Assignment Student System - Fully Compiled\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Monthly_income.resources
+C:\Users\AVITA\Downloads\Assignment Student System - Fully Compiled\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.frmReceptionPage.resources
+C:\Users\AVITA\Downloads\Assignment Student System - Fully Compiled\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.frmReceptionistProfile.resources
+C:\Users\AVITA\Downloads\Assignment Student System - Fully Compiled\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.frmRegistrationPage.resources
+C:\Users\AVITA\Downloads\Assignment Student System - Fully Compiled\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.StuClassSchedule.resources
+C:\Users\AVITA\Downloads\Assignment Student System - Fully Compiled\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.frmPayment.resources
+C:\Users\AVITA\Downloads\Assignment Student System - Fully Compiled\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.StudentHome.resources
+C:\Users\AVITA\Downloads\Assignment Student System - Fully Compiled\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.StuHelpDesk.resources
+C:\Users\AVITA\Downloads\Assignment Student System - Fully Compiled\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.StuProfile.resources
+C:\Users\AVITA\Downloads\Assignment Student System - Fully Compiled\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.StuUpdateProfile.resources
+C:\Users\AVITA\Downloads\Assignment Student System - Fully Compiled\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.frmUpdateSub.resources
+C:\Users\AVITA\Downloads\Assignment Student System - Fully Compiled\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.UpdateClass.resources
+C:\Users\AVITA\Downloads\Assignment Student System - Fully Compiled\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Update_Personal_Detail.resources
+C:\Users\AVITA\Downloads\Assignment Student System - Fully Compiled\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.csproj.GenerateResource.cache
+C:\Users\AVITA\Downloads\Assignment Student System - Fully Compiled\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AVITA\Downloads\Assignment Student System - Fully Compiled\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.AssemblyInfoInputs.cache
+C:\Users\AVITA\Downloads\Assignment Student System - Fully Compiled\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.AssemblyInfo.cs
+C:\Users\AVITA\Downloads\Assignment Student System - Fully Compiled\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.csproj.CoreCompileInputs.cache
+C:\Users\AVITA\Downloads\Assignment Student System - Fully Compiled\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.csproj.CopyComplete
+C:\Users\AVITA\Downloads\Assignment Student System - Fully Compiled\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.dll
+C:\Users\AVITA\Downloads\Assignment Student System - Fully Compiled\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\refint\Assignment Student System.dll
+C:\Users\AVITA\Downloads\Assignment Student System - Fully Compiled\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.pdb
+C:\Users\AVITA\Downloads\Assignment Student System - Fully Compiled\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.genruntimeconfig.cache
+C:\Users\AVITA\Downloads\Assignment Student System - Fully Compiled\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\ref\Assignment Student System.dll
+C:\Users\AVITA\Downloads\IOOP Assignment - Group 17\Assignment Student System - Fully Compiled\Assignment Student System\bin\Debug\net6.0-windows\Assignment Student System.exe
+C:\Users\AVITA\Downloads\IOOP Assignment - Group 17\Assignment Student System - Fully Compiled\Assignment Student System\bin\Debug\net6.0-windows\Assignment Student System.dll.config
+C:\Users\AVITA\Downloads\IOOP Assignment - Group 17\Assignment Student System - Fully Compiled\Assignment Student System\bin\Debug\net6.0-windows\Assignment Student System.deps.json
+C:\Users\AVITA\Downloads\IOOP Assignment - Group 17\Assignment Student System - Fully Compiled\Assignment Student System\bin\Debug\net6.0-windows\Assignment Student System.runtimeconfig.json
+C:\Users\AVITA\Downloads\IOOP Assignment - Group 17\Assignment Student System - Fully Compiled\Assignment Student System\bin\Debug\net6.0-windows\Assignment Student System.dll
+C:\Users\AVITA\Downloads\IOOP Assignment - Group 17\Assignment Student System - Fully Compiled\Assignment Student System\bin\Debug\net6.0-windows\Assignment Student System.pdb
+C:\Users\AVITA\Downloads\IOOP Assignment - Group 17\Assignment Student System - Fully Compiled\Assignment Student System\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\AVITA\Downloads\IOOP Assignment - Group 17\Assignment Student System - Fully Compiled\Assignment Student System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\AVITA\Downloads\IOOP Assignment - Group 17\Assignment Student System - Fully Compiled\Assignment Student System\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\AVITA\Downloads\IOOP Assignment - Group 17\Assignment Student System - Fully Compiled\Assignment Student System\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\AVITA\Downloads\IOOP Assignment - Group 17\Assignment Student System - Fully Compiled\Assignment Student System\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\AVITA\Downloads\IOOP Assignment - Group 17\Assignment Student System - Fully Compiled\Assignment Student System\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\AVITA\Downloads\IOOP Assignment - Group 17\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.csproj.AssemblyReference.cache
+C:\Users\AVITA\Downloads\IOOP Assignment - Group 17\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Admin.resources
+C:\Users\AVITA\Downloads\IOOP Assignment - Group 17\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Admin_Receptionist.resources
+C:\Users\AVITA\Downloads\IOOP Assignment - Group 17\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Admin_Register.resources
+C:\Users\AVITA\Downloads\IOOP Assignment - Group 17\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Admin_Tutor.resources
+C:\Users\AVITA\Downloads\IOOP Assignment - Group 17\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Admin_Tutor_AddSubject.resources
+C:\Users\AVITA\Downloads\IOOP Assignment - Group 17\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Admin_Tutor_Subject.resources
+C:\Users\AVITA\Downloads\IOOP Assignment - Group 17\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Change_Password.resources
+C:\Users\AVITA\Downloads\IOOP Assignment - Group 17\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.frmDltStudentPage.resources
+C:\Users\AVITA\Downloads\IOOP Assignment - Group 17\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Employee_Monthly_Income_Report.resources
+C:\Users\AVITA\Downloads\IOOP Assignment - Group 17\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Employee_View_Monthly_Income_Report.resources
+C:\Users\AVITA\Downloads\IOOP Assignment - Group 17\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Form2.resources
+C:\Users\AVITA\Downloads\IOOP Assignment - Group 17\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Form3.resources
+C:\Users\AVITA\Downloads\IOOP Assignment - Group 17\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.LevelSubject_Monthly_income.resources
+C:\Users\AVITA\Downloads\IOOP Assignment - Group 17\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.LoginPage.resources
+C:\Users\AVITA\Downloads\IOOP Assignment - Group 17\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Monthly_income.resources
+C:\Users\AVITA\Downloads\IOOP Assignment - Group 17\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.frmReceptionPage.resources
+C:\Users\AVITA\Downloads\IOOP Assignment - Group 17\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.frmReceptionistProfile.resources
+C:\Users\AVITA\Downloads\IOOP Assignment - Group 17\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.frmRegistrationPage.resources
+C:\Users\AVITA\Downloads\IOOP Assignment - Group 17\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.StuClassSchedule.resources
+C:\Users\AVITA\Downloads\IOOP Assignment - Group 17\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.frmPayment.resources
+C:\Users\AVITA\Downloads\IOOP Assignment - Group 17\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.StudentHome.resources
+C:\Users\AVITA\Downloads\IOOP Assignment - Group 17\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.StuHelpDesk.resources
+C:\Users\AVITA\Downloads\IOOP Assignment - Group 17\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.StuProfile.resources
+C:\Users\AVITA\Downloads\IOOP Assignment - Group 17\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.StuUpdateProfile.resources
+C:\Users\AVITA\Downloads\IOOP Assignment - Group 17\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.frmUpdateSub.resources
+C:\Users\AVITA\Downloads\IOOP Assignment - Group 17\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.UpdateClass.resources
+C:\Users\AVITA\Downloads\IOOP Assignment - Group 17\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment_Student_System.Update_Personal_Detail.resources
+C:\Users\AVITA\Downloads\IOOP Assignment - Group 17\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.csproj.GenerateResource.cache
+C:\Users\AVITA\Downloads\IOOP Assignment - Group 17\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AVITA\Downloads\IOOP Assignment - Group 17\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.AssemblyInfoInputs.cache
+C:\Users\AVITA\Downloads\IOOP Assignment - Group 17\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.AssemblyInfo.cs
+C:\Users\AVITA\Downloads\IOOP Assignment - Group 17\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.csproj.CoreCompileInputs.cache
+C:\Users\AVITA\Downloads\IOOP Assignment - Group 17\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.csproj.CopyComplete
+C:\Users\AVITA\Downloads\IOOP Assignment - Group 17\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.dll
+C:\Users\AVITA\Downloads\IOOP Assignment - Group 17\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\refint\Assignment Student System.dll
+C:\Users\AVITA\Downloads\IOOP Assignment - Group 17\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.pdb
+C:\Users\AVITA\Downloads\IOOP Assignment - Group 17\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\Assignment Student System.genruntimeconfig.cache
+C:\Users\AVITA\Downloads\IOOP Assignment - Group 17\Assignment Student System - Fully Compiled\Assignment Student System\obj\Debug\net6.0-windows\ref\Assignment Student System.dll
